@@ -11,7 +11,7 @@
        <b> I'm learning Web Engineering </b> <br>
        <b> Very much interested in learning about every technology everyday </b> <br>
        <b> Connect with me at <a href="https://www.linkedin.com/in/ishaan-kaushik-734245209/">Linkedin</a></b> OR
-       <b> <a href = "mailto: knightlymen@gmail.com">Mail</a> me</b>
+       <b> <a href = "ishaankaushik91@gmail.com">Mail</a> me</b>
     </p></div>
     
 </body>
