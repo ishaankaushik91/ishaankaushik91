@@ -1,54 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ishaan Kaushik</title>
-</head>
-<body>
-    
-    <center>
-    <div class="mainHeading">
-        <h1>
-            Ishaan Kaushik
-        </h1>
-        <hr>
+<h1 align="center">Hi 👋, I'm Ishaan Kaushik</h1>
+<h3 align="center">A passionately Full Stack Engineer from India</h3>
 
-        <h2>Fellow at CS.CODE.IN Class of 2021</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaankaushik91&label=Profile%20views&color=0e75b6&style=flat" alt="ishaankaushik91" /> </p>
 
-    </div>
-    </center>
+- 📝 Time Complexity [https://medium.com/@ishaankaushik91/time-complexity-made-easy-cfa6553a8153](https://medium.com/@ishaankaushik91/time-complexity-made-easy-cfa6553a8153)
 
-    <div class="main">
-        <h3 class="heading">
-            About Me :
-        </h3>
-        <p>
-            I'm Ishaan Kaushik, an ex-biology student who transitioned into the computer science domain. <br>
-            I'm a big nerd when it comes to learning something new about technology. 🤓<br>
-            My favourite domain in CS is Data Structures and Algorithms with Networking. <br>
-            I have a <a href="">Instagram</a> page where I post algorithms which solves
-            a problems, 90% of those are made by me. 😄
-        </p>
+- 💬 About Me **I'm Ishaan Kaushik, an ex-biology student who transitioned into the computer science domain. I'm a big nerd when it comes to learning something new about technology. 🤓 My favourite domain in CS is Data Structures and Algorithms with Networking.I have a Instagram page where I post algorithms which solves a problems, 90% of those are made by me. 😄**
 
-        <h3 class="heading">
-            What can I serve you?
-        </h3>
-        <p>
-            I have extensive experience developing web applications and APIs. <br>
-            I can engineer end-to-end complex web systems for you. 💪🏼 <br>
-            I'm a Full Stack Web Engineer.
-        </p>
+- 📫 How to reach me **ishaankaushik91@gmail.com**
 
-        <h3 class="heading">
-            Why work with me?
-        </h3>
-        <p>
-            I'm a guy who is highly creative & passionated about engineering products
-            which helps to solve problems <br> via technology. <br>
-        </p>
-    </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ishaankaushik9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishaankaushik9" height="30" width="40" /></a>
+</p>
 
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaankaushik91&show_icons=true&locale=en" alt="ishaankaushik91" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaankaushik91&" alt="ishaankaushik91" /></p>
