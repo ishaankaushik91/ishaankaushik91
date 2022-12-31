@@ -11,6 +11,6 @@ engineering because I find it more interested.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ## How can I help you ?
-👩‍💻 I can build an web app for you end to end without comprosmising on efficiency
+👩‍💻 I can build an web app for you end to end without comprosmising on efficiency & security
 
 🧠 I'm good at problem solving
