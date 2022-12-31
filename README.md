@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm Ishaan Kaushik an Indian CS Engineer.
+Hi, I'm Ishaan Kaushik an Indian CS Engineer focused towards Full Stack web engineering.
 I'm an ex - Medical Science student transitioned into
 engineering because I find it more interested.
 
